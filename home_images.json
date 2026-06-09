@@ -1,8 +1,8 @@
 {
-  "bible": "photos/baibol.jpg",
-  "fotopinoana": "home/1.jpg",
-  "asafitoriana": "home/2.jpg",
-  "sekoly": "photos/adulte.jpg",
-  "mofo": "photos/pain.jpg",
-  "zoky": "photos/zoky.jpg"
+  "bible": "https://raw.githubusercontent.com/arilaladaniella9-rgb/Sekoly-Sabata/main/photos/baibol.jpg",
+  "fotopinoana": "https://raw.githubusercontent.com/arilaladaniella9-rgb/Sekoly-Sabata/main/home/1.jpg",
+  "asafitoriana": "https://raw.githubusercontent.com/arilaladaniella9-rgb/Sekoly-Sabata/main/home/2.jpg",
+  "sekoly": "https://raw.githubusercontent.com/arilaladaniella9-rgb/Sekoly-Sabata/main/photos/adulte.jpg",
+  "mofo": "https://raw.githubusercontent.com/arilaladaniella9-rgb/Sekoly-Sabata/main/photos/pain.jpg",
+  "zoky": "https://raw.githubusercontent.com/arilaladaniella9-rgb/Sekoly-Sabata/main/photos/zoky.jpg"
 }
