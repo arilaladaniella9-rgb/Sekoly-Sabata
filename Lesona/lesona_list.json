@@ -1,18 +1,4 @@
 [
-    { "t": "Miatrika ny tena zava-misy marina", "start": "2026-03-28", "end": "2026-04-03", "d": "28/03/2026 - 03/04/2026" },
-    { "t": "Mahafantatra an'Andriamanitra", "start": "2026-04-04", "end": "2026-04-10", "d": "04/04/2026 - 10/04/2026" },
-    { "t": "Avonavona na fanetren-tena", "start": "2026-04-11", "end": "2026-04-17", "d": "11/04/2026 - 17/04/2026" },
-    { "t": "Ny anjara asan'ny Baiboly", "start": "2026-04-18", "end": "2026-04-24", "d": "18/04/2026 - 24/04/2026" },
-    { "t": "Ny fomba fandinihana ny Baiboly", "start": "2026-04-25", "end": "2026-05-01", "d": "25/04/2026 - 01/05/2026" },
-    { "t": "Mpitolona amim-bavaka", "start": "2026-05-02", "end": "2026-05-08", "d": "02/05/2026 - 08/05/2026" },
-    { "t": "Vavaka iainana", "start": "2026-05-09", "end": "2026-05-15", "d": "09/05/2026 - 15/05/2026" },
-    { "t": "Manana finoana", "start": "2026-05-16", "end": "2026-05-22", "d": "16/05/2026 - 22/05/2026" },
-    { "t": "Ny fahotana, ny filazantsara, ary ny lalàna", "start": "2026-05-23", "end": "2026-05-29", "d": "23/05/2026 - 29/05/2026" },
-    { "t": "Fibebahana sy famelan-keloka", "start": "2026-05-30", "end": "2026-06-05", "d": "30/05/2026 - 06/06/2026" },
-    { "t": "Olana sy fahavoazana maro samihafa", "start": "2026-06-06", "end": "2026-06-12", "d": "06/06/2026 - 12/06/2026" },
-    { "t": "Torio Izy", "start": "2026-06-13", "end": "2026-06-19", "d": "13/06/2026 - 19/06/2026" },
-    { "t": "Ny mandrakizay", "start": "2026-06-20", "end": "2026-06-26", "d": "20/06/2026 - 26/06/2026" }
-[
   { "t": "Miatrika ny tena zava-misy marina", "start": "2026-03-29", "end": "2026-04-04", "d": "29/03/2026 - 04/04/2026" },
   { "t": "Mahafantatra an'Andriamanitra", "start": "2026-04-05", "end": "2026-04-11", "d": "05/04/2026 - 11/04/2026" },
   { "t": "Ny avonavona sy ny fanetren-tena", "start": "2026-04-12", "end": "2026-04-18", "d": "12/04/2026 - 18/04/2026" },
